@@ -362,3 +362,12 @@ footer section button{
     padding: 2px 7px;
     border-radius: 20px;
 }
+.highlights{
+    position: relative;
+}
+
+.highlights-header{
+    position: sticky;
+    top: 70px;
+    height: max-content;
+}
